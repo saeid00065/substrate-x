@@ -5,5 +5,5 @@ start ***parachain*** [here](https://github.com/substrate-developer-hub/substrat
 
 make validator and connect to parachain
 
-[ink!](https://paritytech.github.io/ink/) is smart contract for substrate 
+[ink!](https://paritytech.github.io/ink/) is smart contract for substrate pass test 
 
